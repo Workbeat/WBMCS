@@ -4,7 +4,7 @@ WorkBeat Message Controller Service
 Esta es una librería en VB.NET la cual se conecta a workbeat.com y permite recibir mensajes de notificación de los eventos que suceden en la aplicacion.
 
 ## Requisitos
-Esta librería se conecta a un servidor de RabbitMQ, por lo que es necesario incluir las librerias del mismo. Por facilidad, estos dlls están incluidos en este repositorio, pero recomendamos bajar la ultima versión de los mismos del sitio de
+Esta librería se conecta a un servidor de [RabbitMQ](https://www.rabbitmq.com/), por lo que es necesario incluir las librerias del mismo. Por facilidad, estos dlls están incluidos en este repositorio, pero recomendamos bajar la ultima versión de los mismos del sitio de
 [RabbitMQ](https://www.rabbitmq.com/dotnet.html) (https://www.rabbitmq.com/dotnet.html)
 
 ## Creación de una aplicación
