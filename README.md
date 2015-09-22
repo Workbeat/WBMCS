@@ -41,7 +41,6 @@ Un ejemplo sencillo de uso,
 	Public Sub onMessageReceived(sender As Object, e As Workbeat.WBMCS.MessageReceivedEventArgs)
 		Console.WriteLine("incoming message...")
 		Console.WriteLine(e.Message.messageType)
-		Dim js As New JavaScriptSerializer
 		Console.WriteLine(e.Message.data)
 	End Sub
 
